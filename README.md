@@ -74,7 +74,7 @@ I'm building hands-on, portfolio-backed skill across **both sides of the fence**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hansal-savaliya/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hansalsavaliya200@gmail.com)
-
+https://www.linkedin.com/in/hansal-savaliya/  for Linkedin
 <sub>Currently working through Investigations 28–40 and expanding into Azure identity attacks, purple teaming, and detection engineering.</sub>
 
 </div>
